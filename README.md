@@ -12,9 +12,9 @@ S3 Bucket: Provides storage with a unique bucket name.
 
 
 ### Prerequisites
-Terraform installed
-AWS CLI configured with appropriate credentials
-An AWS account with permissions to create resources
+**Terraform installed**
+**AWS CLI configured with appropriate credentials**
+**An AWS account with permissions to create resources**
 ### usage
 Initialize Terraform:
  **terraform init**
