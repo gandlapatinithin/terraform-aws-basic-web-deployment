@@ -12,17 +12,26 @@ S3 Bucket: Provides storage with a unique bucket name.
 
 
 ### Prerequisites
-**Terraform installed.**
-**AWS CLI configured with appropriate credentials.**
-**An AWS account with permissions to create resources.**
+**Terraform installed**
+
+**AWS CLI configured with appropriate credentials**
+
+**An AWS account with permissions to create resources**
 
 ### usage
 
-Initialize Terraform:.
-**terraform init.**
-view the plan of the configration:.
-**terraform plan.**
-Apply the configuration:.
- **terraform apply.**
-To delete all resources, run:.
+Initialize Terraform:
+
+**terraform init**
+
+view the plan of the configration:
+
+**terraform plan**
+
+Apply the configuration:
+
+ **terraform apply**
+ 
+To delete all resources, run:
+
  **terraform destroy**
