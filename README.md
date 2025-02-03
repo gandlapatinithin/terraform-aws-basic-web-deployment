@@ -18,7 +18,7 @@ S3 Bucket: Provides storage with a unique bucket name.
 
 **An AWS account with permissions to create resources**
 
-### usage
+### commands
 
 Initialize Terraform:
 
